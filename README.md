@@ -33,10 +33,11 @@ By the end of this week, students should be able to...
     * ...the evolution of the language through HTML5
     * ...being able to identify critical HTML syntax (i.e. tags)
         * `<!DOCTYPE html>`
+        * `<html></html>`
         * `<head></head>`
         * `<body></body>`
-* ...identify the differences between a source code editor and an Integrated Development Environment (IDE)
 * ...setup and use a realistic cloud source code editor
+* ...identify the differences between a source code editor and an Integrated Development Environment (IDE)
 * ...ultimately begin learning how to input/output (I/O) plain text to the web browser in the form of HTML
 
 # Objectives
