@@ -54,4 +54,4 @@ After the lesson, students will...
 # Activity
 
 Further reinforce the lessons by allotting time toward the end of the session (after the "cool down") for experimentation with
-newly-learned skills through the use of free online code editors, such as [http://jsfiddle.net/](jsfiddle.net) or [https://codepen.io/](codepen.io).# week-1
+newly-learned skills through the use of free online code editors, such as [http://jsfiddle.net/](jsfiddle.net) or [https://codepen.io/](codepen.io).
