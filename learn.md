@@ -1,19 +1,7 @@
 # Lesson 1
 
-## Meet Your Facilitator
-### Riyaad Azad
-[riyaadazad.github.io](https://riyaadazad.github.io/) | [azad.riyaad@gmail.com](mailto:azad.riyaad@gmail.com)
-* Certified Android Developer 
-* Proficient Front-End Web Developer
-
-I love photography (and I really love Google)! 
-
-I speak English. | .أنا أتحدث العربية | Hablo Espanol.
-
-## What on Earth is a coding club?
-A coding club allows the student to gain insightful knowledge on one or more aspects of (computer) programming.
-
 ## A Little History
+### *Since 1989*
 The World Wide Web (WWW) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the internet.
 
 ### Inventors of the WWW
@@ -35,7 +23,7 @@ The World Wide Web (WWW) is an information space where documents and other web r
 	> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/2000px-WWW_logo_by_Robert_Cailliau.svg.png" alt="WWW Logo by Robert Cailliau" width="10%"/>
 * Organized the first international WWW conference at Swiss lab European Organization for Nuclear Research (CERN) in 1994
 
-## HTML
+## Introduction to HTML
 **H**yper-**T**ext **M**arkup **L**anguage
 * Standard language for web pages and apps
 * "Marks up" web pages with plain text
@@ -44,23 +32,39 @@ The World Wide Web (WWW) is an information space where documents and other web r
 * Bones of the webpage:
 	> <img src="https://target.scene7.com/is/image/Target/51204315?wid=488&hei=488&fmt=pjpeg" alt="Skeleton" width="25%"/>
 
-## CSS
+## Introduction to CSS
 **C**ascading **S**tyle **S**heets
 * Current version 3 (CSS3)
 * Skin and make-up of the webpage (usually makes the webpage presentable):
 	> <img src="https://images-na.ssl-images-amazon.com/images/I/41T-KIPvmBL._AC_SR201,266_.jpg" alt="Businessman" width="25%"/>
 
-## JS
+## Introduction to JS
 **J**ava**S**cript
 *aka **E**CMA**S**cript (ES)*
 * Current version 6 (ES6/JS6)
 * Muscles of the webpage:
 	> <img src="https://sciencedrivennutrition.com/wp-content/uploads/2016/01/muscles-anatomy-back.jpg" alt="Skeleton with Muscles" width="25%"/>
 
+<!-- Include in a later week/lesson...
 ## So how do you get on the web?
 You get a web *site*! You purchase a domain from one of many domain providers, such as [Google Domains](https://domains.google/), [Go Daddy](https://www.godaddy.com/
 ) and [HostGator](https://www.hostgator.com/). There are also free options such as [GitHub Pages](https://pages.github.com/).
-	
-## Setting (Up) the Stage 
-1. Create GitHub Account
-2. Join GitHub Classroom
+-->
+
+## HTML Syntax
+* Power in tags `</>`
+* `<!DOCTYPE html>` is the gender of the web page; it lets the browser know that it is dealing with HTML5
+* `<html></html>` is the actual web page; it lets the browser know that the HTML code is within these tags
+* `<head></head>` is the brain of the web page, where all of the metadata is stored, such as the page's `<title></title>`
+* `<body></body>` is the literal body of the web page; everything in here is visible
+
+### Sample HTML Web Page
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>This Text Will Show Up in a Browser Tab</title>
+		</head>
+		<body>
+			<h1>This text will show up on the page.</h1>
+		</body>
+	</html>
