@@ -1,15 +1,15 @@
 # Meet Your Facilitator
-### Riyaad Azad :smile:
+### Riyaad Azad
 [riyaadazad.github.io](https://riyaadazad.github.io/) | [azad.riyaad@gmail.com](mailto:azad.riyaad@gmail.com)
 * Certified Android Developer 
 * Proficient Front-End Web Developer
 
-I :heart: photography (and I :heart: :heart: Google)! 
+I love photography (and I really love Google)! 
 
 I speak English. | .أنا أتحدث العربية | Hablo Espanol.
 
-# What on :earth_americas: is a coding club?
-A coding club allows the student to gain insightful knowledge on one or more aspects of (computer) programming.
+# What on Earth is a coding club?
+A coding club allows the heart: :heart:student to gain insightful knowledge on one or more aspects of (computer) programming.
 
 # A Little History
 ## Learn about the Internet that is continually shaping our lives.
@@ -32,7 +32,6 @@ A coding club allows the student to gain insightful knowledge on one or more asp
 * Created the first Mac Web Browser
 * Designed the iconic WWW logo 
 	> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/2000px-WWW_logo_by_Robert_Cailliau.svg.png" alt="WWW Logo by Robert Cailliau" width="10%"/>
-	
 * Organized the first international WWW conference at Swiss lab European Organization for Nuclear Research (CERN) in 1994
 
 # HTML
