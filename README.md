@@ -1,4 +1,4 @@
-**[Lesson 1](https://ra-coding-club.github.io/week-1/learn)** | **[Lesson 2]()** | **[Lesson 3]()** | **[Lesson 4]()** | **[Lesson 5]()** | **[Lesson 6]()**
+***[Week 1 Lesson](https://ra-coding-club.github.io/week-1/learn)*** | **[Week 2]()** | **[Week 3]()** | **[Week 4]()** | **[Week 5]()** | **[Week 6]()**
 
 # Overview
 
