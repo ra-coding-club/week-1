@@ -1,6 +1,4 @@
-# Week 1
-
-## Overview
+# Overview
 
 The purpose of this first workshop is for students to...
 * ...be introduced to the facilitator 
