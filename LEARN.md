@@ -9,7 +9,7 @@ I love photography (and I really love Google)!
 I speak English. | .أنا أتحدث العربية | Hablo Espanol.
 
 # What on Earth is a coding club?
-A coding club allows the heart: :heart:student to gain insightful knowledge on one or more aspects of (computer) programming.
+A coding club allows the student to gain insightful knowledge on one or more aspects of (computer) programming.
 
 # A Little History
 ## Learn about the Internet that is continually shaping our lives.
