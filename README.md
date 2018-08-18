@@ -1,4 +1,4 @@
-***Jump to [Lesson 1](https://ra-coding-club.github.io/week-1/learn)***
+***[Lesson 1](https://ra-coding-club.github.io/week-1/learn) | [Lesson 2]() | [Lesson 3]() | [Lesson 4]() | [Lesson 5]() | [Lesson 6]()***
 
 # Overview
 
