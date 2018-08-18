@@ -1,6 +1,6 @@
-# Overview
-
 ***Jump to [Lesson 1](https://ra-coding-club.github.io/week-1/learn)***
+
+# Overview
 
 The purpose of this first workshop is for students to...
 * ...be introduced to the facilitator 
