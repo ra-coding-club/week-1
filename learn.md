@@ -68,12 +68,13 @@ You get a web *site*! You purchase a domain from one of many domain providers, s
 
 ### Sample HTML Web Page
 
-	<!DOCTYPE html>
-	<html>
-		<head>
-			<title>This Text Will Show Up in a Browser Tab</title>
-		</head>
-		<body>
-			<h1>This text will show up on the page.</h1>
-		</body> 
-	</html>
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>This Text Will Show Up in a Browser Tab</title>
+      </head>
+      <body>
+        <h1>Hello World! This is a header.</h1>
+        <p>This text and the header above will be visible on the page.</p>
+      </body>
+    </html>
