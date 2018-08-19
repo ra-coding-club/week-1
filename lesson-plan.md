@@ -1,3 +1,5 @@
+[Getting Started](https://ra-coding-club.github.io/coding-club) | [Week 1](https://ra-coding-club.github.io/week-1/)
+
 # Overview
 
 The purpose of this first workshop is for students to...
