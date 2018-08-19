@@ -1,5 +1,7 @@
 [Getting Started](https://ra-coding-club.github.io/coding-club) | **[Week 1](https://ra-coding-club.github.io/week-1/)** | [Week 2]() | [Week 3]() | [Week 4]() | [Week 5]() | [Week 6]()
 
+*Jump to [Lesson Plan](https://ra-coding-club.github.io/week-1/lesson-plan).*
+
 # A Little History 
 
 Created in 1989, the World Wide Web (WWW) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the internet.
