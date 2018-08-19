@@ -1,4 +1,4 @@
-[Getting Started](https://ra-coding-club.github.io/coding-club) | **[Week 1](https://ra-coding-club.github.io/week-1/)** | 
+[Home](https://ra-coding-club.github.io/coding-club) | **[Week 1](https://ra-coding-club.github.io/week-1/)** | 
 
 # A Little History 
 
