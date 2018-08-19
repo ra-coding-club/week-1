@@ -1,6 +1,6 @@
-[Getting Started](https://ra-coding-club.github.io/coding-club) | [Week 1](https://ra-coding-club.github.io/week-1/)
+# Lesson Plan
 
-# Overview
+## Overview
 
 The purpose of this first workshop is for students to...
 * ...be introduced to the facilitator 
@@ -9,7 +9,7 @@ The purpose of this first workshop is for students to...
 * ...learn website fundamentals
 * ...learn Hypertext Markup Language (HTML) syntax
 
-# Standards
+## Standards
 
 By the end of this week, students should be able to...
 * ...recall essential internet and World Wide Web (WWW) milestones, including
@@ -40,7 +40,7 @@ By the end of this week, students should be able to...
 * ...identify the differences between a source code editor and an Integrated Development Environment (IDE)
 * ...ultimately begin learning how to input/output (I/O) plain text to the web browser in the form of HTML
 
-# Objectives
+## Objectives
 
 Students will be introduced to...
 * ...GitHub and source code editor
@@ -52,7 +52,7 @@ After the lesson, students will...
 * ...“cool down” on the material covered
 * ...culminate with a coding playground (experiment with newly-acquired skills)
 
-# Activity
+## Activity
 
 Further reinforce the lessons by allotting time toward the end of the session (after the "cool down") for experimentation with
 newly-learned skills through the use of free online code editors, such as [http://jsfiddle.net/](jsfiddle.net) or [https://codepen.io/](codepen.io).
