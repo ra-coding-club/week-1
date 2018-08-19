@@ -1,58 +1,80 @@
-**[Week 1 Lesson](https://ra-coding-club.github.io/week-1/learn)** | **[Week 2]()** | **[Week 3]()** | **[Week 4]()** | **[Week 5]()** | **[Week 6]()**
+# Lesson 1
 
-# Overview
+## A Little History
 
-The purpose of this first workshop is for students to...
-* ...be introduced to the facilitator 
-* ...setup necessary online components 
-* ...learn internet basics 
-* ...learn website fundamentals
-* ...learn Hypertext Markup Language (HTML) syntax
+### *Since 1989*
 
-# Standards
+The World Wide Web (WWW) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the internet.
 
-By the end of this week, students should be able to...
-* ...recall essential internet and World Wide Web (WWW) milestones, including
-    * Knowing who invented the WWW and when
-    * The main languages that comprise the WWW
-        * HTML
-        * Cascading Style Sheets (CSS)
-        * ECMAscript—ES/JavaScript (JS)
-    * Internet safety (HTTP vs. HTTPS)
-* ...characterize the parts of a webpage skeleton
-    * HTML is the bone
-        * To be alive and functional, a website must have a spinal cord
-    * CSS is the skin
-        * An okay website is a caveman (not a lot of clothes), but
-        * An exceptional website is a businessman (with fancy clothes)
-    * JS is the muscle
-    * The perfect website is physically fit and can perform actions quickly, in the blink of an eye
-* ...develop a deep understanding of basic HTML, including...
-    * ...what the abbreviation stands for
-    * ...the purpose of HTML in a webpage
-    * ...the evolution of the language through HTML5
-    * ...being able to identify critical HTML syntax (i.e. tags)
-        * `<!DOCTYPE html>`
-        * `<html></html>`
-        * `<head></head>`
-        * `<body></body>`
-* ...setup and use a realistic cloud source code editor
-* ...identify the differences between a source code editor and an Integrated Development Environment (IDE)
-* ...ultimately begin learning how to input/output (I/O) plain text to the web browser in the form of HTML
+### Inventors of the WWW
 
-# Objectives
+**Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS**
+*aka Tim Berners-Lee*
+	
+<img src="https://media.vanityfair.com/photos/5b351925420bf26882fee28c/master/w_690,c_limit/founder-of-the-web-08-2018-embed01.jpg" alt="Portrait of Tim Berners-Lee" width="25%"/>
 
-Students will be introduced to...
-* ...GitHub and source code editor
-* ...website fundamentals
-    * Internet basics
-    * Website basics
-* ...HTML
-After the lesson, students will...
-* ...“cool down” on the material covered
-* ...culminate with a coding playground (experiment with newly-acquired skills)
+* English engineer and computer scientist
+* LITERALLY INVENTED THE INTERNET!!!
 
-# Activity
+**Robert Cailliau**
+	
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Robert_Cailliau_On_Desk.jpg/220px-Robert_Cailliau_On_Desk.jpg" alt="Portrait of Robert Cailliau" width="25%"/>
 
-Further reinforce the lessons by allotting time toward the end of the session (after the "cool down") for experimentation with
-newly-learned skills through the use of free online code editors, such as [http://jsfiddle.net/](jsfiddle.net) or [https://codepen.io/](codepen.io).
+* Belgian informatics engineer and computer scientist
+* Created the first Mac Web Browser
+* Designed the iconic WWW logo 
+	> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/2000px-WWW_logo_by_Robert_Cailliau.svg.png" alt="WWW Logo by Robert Cailliau" width="10%"/>
+* Organized the first international WWW conference at Swiss lab European Organization for Nuclear Research (CERN) in 1994
+
+## Introduction to HTML
+
+**H**yper-**T**ext **M**arkup **L**anguage
+* Standard language for web pages and apps
+* "Marks up" web pages with plain text
+* Styled with CSS
+* Current version 5 (HTML5)
+* Bones of the webpage:
+	> <img src="https://target.scene7.com/is/image/Target/51204315?wid=488&hei=488&fmt=pjpeg" alt="Skeleton" width="25%"/>
+
+## Introduction to CSS
+
+**C**ascading **S**tyle **S**heets
+* Current version 3 (CSS3)
+* Skin and make-up of the webpage (usually makes the webpage presentable):
+	> <img src="https://images-na.ssl-images-amazon.com/images/I/41T-KIPvmBL._AC_SR201,266_.jpg" alt="Businessman" width="25%"/>
+
+## Introduction to JS
+
+**J**ava**S**cript
+*aka **E**CMA**S**cript (ES)*
+* Current version 6 (ES6/JS6)
+* Muscles of the webpage:
+	> <img src="https://sciencedrivennutrition.com/wp-content/uploads/2016/01/muscles-anatomy-back.jpg" alt="Skeleton with Muscles" width="25%"/>
+
+<!-- Include in a later week/lesson...
+## So how do you get on the web?
+
+You get a web *site*! You purchase a domain from one of many domain providers, such as [Google Domains](https://domains.google/), [Go Daddy](https://www.godaddy.com/
+) and [HostGator](https://www.hostgator.com/). There are also free options such as [GitHub Pages](https://pages.github.com/).
+-->
+
+## HTML Syntax
+
+* Power in tags `</>`
+* `<!DOCTYPE html>` is the gender of the web page; it lets the browser know that it is dealing with HTML5
+* `<html></html>` is the actual web page; it lets the browser know that the HTML code is within these tags
+* `<head></head>` is the brain of the web page, where all of the metadata is stored, such as the page's `<title></title>`
+* `<body></body>` is the literal body of the web page; everything in here is visible
+
+### Sample HTML Web Page
+
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>This Text Will Show Up in a Browser Tab</title>
+      </head>
+      <body>
+        <h1>Hello World! This is a header.</h1>
+        <p>This text and the header above will be visible on the page.</p>
+      </body>
+    </html>
