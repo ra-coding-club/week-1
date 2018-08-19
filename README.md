@@ -1,12 +1,10 @@
-# Lesson 1
+[Getting Started](https://ra-coding-club.github.io/coding-club) | [Week 1](https://ra-coding-club.github.io/week-1/)
 
-## A Little History
+# A Little History 
 
-### *Since 1989*
+Created in 1989, the World Wide Web (WWW) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the internet.
 
-The World Wide Web (WWW) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the internet.
-
-### Inventors of the WWW
+## Inventors of the WWW
 
 **Sir Timothy John Berners-Lee OM KBE FRS FREng FRSA FBCS**
 *aka Tim Berners-Lee*
@@ -26,7 +24,7 @@ The World Wide Web (WWW) is an information space where documents and other web r
 	> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/2000px-WWW_logo_by_Robert_Cailliau.svg.png" alt="WWW Logo by Robert Cailliau" width="10%"/>
 * Organized the first international WWW conference at Swiss lab European Organization for Nuclear Research (CERN) in 1994
 
-## Introduction to HTML
+# Introduction to HTML
 
 **H**yper-**T**ext **M**arkup **L**anguage
 * Standard language for web pages and apps
@@ -36,14 +34,14 @@ The World Wide Web (WWW) is an information space where documents and other web r
 * Bones of the webpage:
 	> <img src="https://target.scene7.com/is/image/Target/51204315?wid=488&hei=488&fmt=pjpeg" alt="Skeleton" width="25%"/>
 
-## Introduction to CSS
+# Introduction to CSS
 
 **C**ascading **S**tyle **S**heets
 * Current version 3 (CSS3)
 * Skin and make-up of the webpage (usually makes the webpage presentable):
 	> <img src="https://images-na.ssl-images-amazon.com/images/I/41T-KIPvmBL._AC_SR201,266_.jpg" alt="Businessman" width="25%"/>
 
-## Introduction to JS
+# Introduction to JS
 
 **J**ava**S**cript
 *aka **E**CMA**S**cript (ES)*
@@ -58,7 +56,7 @@ You get a web *site*! You purchase a domain from one of many domain providers, s
 ) and [HostGator](https://www.hostgator.com/). There are also free options such as [GitHub Pages](https://pages.github.com/).
 -->
 
-## HTML Syntax
+# HTML Syntax
 
 * Power in tags `</>`
 * `<!DOCTYPE html>` is the gender of the web page; it lets the browser know that it is dealing with HTML5
@@ -66,7 +64,7 @@ You get a web *site*! You purchase a domain from one of many domain providers, s
 * `<head></head>` is the brain of the web page, where all of the metadata is stored, such as the page's `<title></title>`
 * `<body></body>` is the literal body of the web page; everything in here is visible
 
-### Sample HTML Web Page
+## Sample HTML Web Page
 
     <!DOCTYPE html>
     <html>
