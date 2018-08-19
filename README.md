@@ -1,6 +1,4 @@
-[Getting Started](https://ra-coding-club.github.io/coding-club) | **[Week 1](https://ra-coding-club.github.io/week-1/)** | [Week 2]() | [Week 3]() | [Week 4]() | [Week 5]() | [Week 6]()
-
-*Jump to [Lesson Plan](https://ra-coding-club.github.io/week-1/lesson-plan).*
+[Getting Started](https://ra-coding-club.github.io/coding-club) | **[Week 1](https://ra-coding-club.github.io/week-1/)** | 
 
 # A Little History 
 
