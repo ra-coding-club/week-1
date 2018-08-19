@@ -1,4 +1,4 @@
-# Week 1 Homework
+# Week 1 Cool Down
 
 **Read [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) and answer the following questions below.**
 
