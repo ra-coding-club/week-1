@@ -76,3 +76,5 @@ You get a web *site*! You purchase a domain from one of many domain providers, s
         <p>This text and the header above will be visible on the page.</p>
       </body>
     </html>
+
+**Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
