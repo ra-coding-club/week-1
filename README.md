@@ -81,8 +81,10 @@ You get a web *site*! You purchase a domain from one of many domain providers, s
 
 For more information on HTML, please visit [the HTML Course on TutorialsPoint](https://www.tutorialspoint.com/html/html_quick_guide.htm).
 
-## Actvities
+## Activities
 
+* [JSFiddle](https://jsfiddle.net/) is a robust online code editor that is an amazing tool for testing out new concepts 
+* [CodePen](https://codepen.io/pen/) is another online code editor used by real developers to share code (snippets) online
 * [Pixactly](https://pixact.ly/) is a free game that helps developers estimate reasonable heights and widths of elements on the fly
 * [Dungeons &amp; Developers](http://www.dungeonsanddevelopers.com/) is an online talent tree that is useful in tracking your progress of learning new coding concepts
 * [CodePupil](https://codepupil.com/) is a free site that teaches industry-standard website development through "fun visual exercises &amp; games"
