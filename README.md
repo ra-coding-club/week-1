@@ -77,4 +77,14 @@ You get a web *site*! You purchase a domain from one of many domain providers, s
       </body>
     </html>
 
+# Further Information
+
+For more information on HTML, please visit [the HTML Course on TutorialsPoint](https://www.tutorialspoint.com/html/html_quick_guide.htm).
+
+## Actvities
+
+* [Pixactly](https://pixact.ly/) is a free game that helps developers estimate reasonable heights and widths of elements on the fly
+* [Dungeons &amp; Developers](http://www.dungeonsanddevelopers.com/) is an online talent tree that is useful in tracking your progress of learning new coding concepts
+* [CodePupil](https://codepupil.com/) is a free site that teaches industry-standard website development through "fun visual exercises &amp; games"
+
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
